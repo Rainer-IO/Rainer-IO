@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rainer-IO
-- 👀 I’m interested in ... Potovoltaik und IO Broker auf Synology
+- 👀 I’m interested in ... Potovoltaik und Home Assistant auf Synology
 - 🌱 I’m currently learning mit den Fehlern um zu gehen
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
